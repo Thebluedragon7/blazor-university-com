@@ -14,7 +14,7 @@ A route parameter is defined in the URL by wrapping its name in a pair of `{` br
 `@page` declaration.
 
 ```razor
-@page "/customer/{CustomerId}
+@page "/customer/{CustomerId}"
 ```
 
 ## Capturing a parameter value
